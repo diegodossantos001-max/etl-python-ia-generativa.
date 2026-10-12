@@ -1,6 +1,6 @@
 # Explorando IA Generativa em um Pipeline de ETL com Python
 
-Projeto desenvolvido para o desafio do Bootcamp TOTVS de Engenharia de Dados e Machine Learning, com foco nos fundamentos de ETL: Extração, Transformação e Carregamento.
+Projeto desenvolvido como parte do Bootcamp TOTVS de Engenharia de Dados e Machine Learning, realizado na plataforma [DIO](https://www.dio.me/), com foco nos fundamentos de ETL: Extração, Transformação e Carregamento.
 
 O pipeline extrai dados de clientes fictícios de um arquivo CSV, valida e trata esses dados, gera mensagens personalizadas com a API da OpenAI e salva os resultados em um banco SQLite.
 
