@@ -1,0 +1,13 @@
+# Credenciais locais
+.env
+
+# Ambiente virtual
+.venv/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Banco SQLite gerado pelo projeto
+data/*.db
+data/*.db-*
